@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "EpiReport"]
-	path = EpiReport
-	url = https://github.com/cran/EpiReport
 [submodule "EpiStats"]
 	path = EpiStats
 	url = https://github.com/cran/EpiStats
